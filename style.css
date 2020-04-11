@@ -491,7 +491,7 @@ h3.tittle {
     width: 100%;
 }
 .team_info a i.fc1 {
-    background: url(../images/social2.png) no-repeat -41px 1px #3b5998;
+    background: url(https://jetagetravel.github.io/main/social2.png) no-repeat -41px 1px #3b5998;
     width: 45px;
     height: 45px;
     display: inline-block;
@@ -502,7 +502,7 @@ h3.tittle {
     -o-border-radius: 50%;
 }
 .team_info a i.fc2 {
-    background: url(../images/social2.png) no-repeat 1px 1px #55acee;
+    background: url(https://jetagetravel.github.io/main/social2.png) no-repeat 1px 1px #55acee;
     width: 45px;
     height: 45px;
     display: inline-block;
@@ -513,7 +513,7 @@ h3.tittle {
     -o-border-radius: 50%;
 }
 .team_info a i.fc3 {
-    background:url(../images/social2.png) no-repeat -80px 1px #dc4e41;
+    background:url(https://jetagetravel.github.io/main/social2.png) no-repeat -80px 1px #dc4e41;
     width: 45px;
     height: 45px;
     display: inline-block;
@@ -730,7 +730,7 @@ h3.tittle1 {
 	height: 48px;
 	border: none;
 	text-indent: -100%;
-	background: url("../images/to-top2.png") no-repeat 0px 0px;
+	background: url("https://jetagetravel.github.io/main/to-top2.png") no-repeat 0px 0px;
 }
 @media(max-width:1440px){
 .banner-section {
@@ -851,17 +851,17 @@ h3.tittle {
     width: 25%;
 }
 .team_info a i.fc1 {
-    background: url(../images/social2.png) no-repeat -46px -3px #3b5998;
+    background: url(https://jetagetravel.github.io/main/social2.png) no-repeat -46px -3px #3b5998;
     width: 36px;
     height: 36px;
 }
 .team_info a i.fc2 {
-    background: url(../images/social2.png) no-repeat -3px -3px #55acee;
+    background: url(https://jetagetravel.github.io/main/social2.png) no-repeat -3px -3px #55acee;
     width: 36px;
     height: 36px;
 }
 .team_info a i.fc3 {
-    background: url(../images/social2.png) no-repeat -84px -3px #dc4e41;
+    background: url(https://jetagetravel.github.io/main/social2.png) no-repeat -84px -3px #dc4e41;
     width: 36px;
     height: 36px;
 }
@@ -1042,7 +1042,7 @@ h3.tittle {
 }
 @media(max-width:568px){
 .banner-section {
-    background: url(../images/ba1.jpg) no-repeat -96px 0px;
+    background: url(https://jetagetravel.github.io/main/ba1.jpg) no-repeat -96px 0px;
     background-size: cover;	
 }
 .news-grid {
